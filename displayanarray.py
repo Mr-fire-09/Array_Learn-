@@ -1,0 +1,4 @@
+n = int(input("Enter size: "))
+arr = list(map(int, input("Enter elements: ").split()))
+
+print("Array:", arr)
